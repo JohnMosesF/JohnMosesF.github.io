@@ -1,25 +1,27 @@
-# Folio— Freelance Portfolio Template (HTML · Tailwind · Alpine.js)
-#### Preview
+# John Moses F Portfolio
 
- - [Demo](https://themewagon.github.io/folio-html/)
+Static resume portfolio for John Moses F, a Network and Cloud Support Engineer based in Chennai, Tamil Nadu.
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/folio-html/)
+## Pages
 
-## Getting Started
+- `index.html` - main resume portfolio with summary, skills, projects, education, training, and contact details.
+- `projects.html` - detailed project page for networking and AWS deployment work.
+- `case-study.html` - enterprise branch network design and troubleshooting case study.
+- `blog.html` - technical notes landing page.
+- `blog-article.html` - network troubleshooting note.
+- `John Moses F.pdf` - resume PDF.
 
-1. Clone Repository
-```
-git clone https://github.com/themewagon/folio-html.git
-```
+## Profile Focus
 
-## Author 
-```
-Design and code is completely written by Laurent Begey and development team. 
-```
+- Network support: TCP/IP, OSI model, subnetting, switching, routing, VLANs, DNS, DHCP, OSPF, firewall basics, packet flow analysis.
+- Systems: Linux administration, Windows, Active Directory basics.
+- AWS: EC2, VPC, IAM, S3, RDS, CloudWatch, SQS, SNS, load balancing, auto scaling.
+- DevOps: Docker basics, Terraform, GitHub Actions, CI/CD.
 
-## License
+## Contact
 
- - Design and Code is Copyright &copy; <a href="https://lbegey78.gumroad.com/" target="_blank">Laurent Begey</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+- Email: fjohnmoses2003@gmail.com
+- Phone: +91 7448923313
+- LinkedIn: https://linkedin.com/in/johnmosesf
+- GitHub: https://github.com/JohnMosesF
+- Portfolio: https://johnmosesf.github.io/
